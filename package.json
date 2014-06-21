@@ -1,0 +1,34 @@
+{
+  "name": "nodejswebsitescreenshot",
+  "version": "0.1.0",
+  "description": "nodeJS Website screen capture",
+  "main": "server.js",
+  "dependencies": {
+    "imagemagick": "~0.1.3",
+    "should": "~4.0.4",
+    "phantomjs": "~1.9.7-8",
+    "express": "~4.4.3",
+    "tmp": "~0.0.23"
+  },
+  "devDependencies": {
+    "mocha": "~1.20.1"
+  },
+  "scripts": {
+    "test": "mocha",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/klexas/nodejswebsitescreenshot.git"
+  },
+  "keywords": [
+    "nodejs",
+    "screenshot",
+    "website"
+  ],
+  "author": "Adam Robins @ http://adamrobins.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/klexas/nodejswebsitescreenshot/issues"
+  }
+}
