@@ -44,3 +44,16 @@ nodejs server.js
 <br><p>
 Next steps : </b> Cleaning up this mess what i decided to upload to the raw world. 
 
+<br>
+<h1>Get Testing! </h1>
+<p>Given that you installed everything correctly! (sudo npm install) you should be ready to check it out! 
+
+<br>
+Go to your domain (we will consider localhost your domain)
+<pre>http://localhost:8888/google.com</pre>
+
+You should see a screenshot of google.com 
+
+<br>
+
+<b><u>Takes nothing to be a loser</b></u>
