@@ -55,5 +55,3 @@ Go to your domain (we will consider localhost your domain)
 You should see a screenshot of google.com 
 
 <br>
-
-<b><u>Takes nothing to be a loser</b></u>
